@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*The most important part of the program is the main function */
+/**
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
