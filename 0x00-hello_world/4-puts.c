@@ -1,12 +1,7 @@
 #include <stdio.h>
 
-int main(void)
-/**
-* main - prints exactly "Programming is like building a multilingual puzzle"
-* followed by a new line.
-* Return: Always 0 (Success)
-*/
+int main(void)	/*The most important part of the program*/
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("Programming is like building a multilingual puzzle");	/* puts function in place of printf */
+	return (0);	/*Returns a success*/
 }
