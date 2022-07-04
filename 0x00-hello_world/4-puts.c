@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main(void)	/*The most important part of the program*/
+/*The most important part of the program is the main function */
+int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");	/* puts function in place of printf */
-return (0);/*Returns a success*/
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
