@@ -3,12 +3,9 @@
 /**
 * main - prints putchar
 *
-* Return : On success 1.
-* On error, -1 is returned, and error is set appropriately.
+* Return : always 0
 */
-
 int main(void)
-
 {
 _putchar('_');
 _putchar('p');
