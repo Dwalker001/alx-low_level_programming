@@ -1,8 +1,7 @@
 #include "main.h"
 /**
-* main - The main function prints putchar.
-* Return : always 0.
-* Returns a 1 if error.
+* main - prints putchar
+* Return: always 0
 */
 int main(void)
 {
