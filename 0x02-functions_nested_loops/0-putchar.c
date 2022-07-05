@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
 * main - The main function prints putchar.
-* Return : always 0. 
+* Return : always 0.
 * Returns a 1 if error.
 */
-
 int main(void)
 {
 _putchar('_');
