@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
-* main - prints putchar
-* Return : always 0
+* main - The main function prints putchar.
+* Return : always 0. 
+* Returns a 1 if error.
 */
+
 int main(void)
 {
 _putchar('_');
@@ -15,5 +17,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
- return 0;
+return 0;
 }
