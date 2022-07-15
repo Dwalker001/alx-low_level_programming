@@ -23,6 +23,6 @@ dest[len + i] = src[i];
 break;
 }
 dest[len + i] = src[i];
-}	
+}
 return (dest);
 }
