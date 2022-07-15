@@ -8,7 +8,6 @@
 * letters 't' and 'T' should be replaced by 7
 * letters 'l' and 'L' should be replaced by 1
 * @str: pointer to the string
-
 * Return: pointer to the encoded string
 */
 
