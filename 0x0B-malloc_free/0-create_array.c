@@ -3,12 +3,12 @@
 #include <stdlib.h>
 
 /**
-* create array - creates an array of chars,
-* and initializes it with a specific char
-* @size: size of chars
-* @c: chars to be used
-* Return: a pointer to an array or NULL if it fails
-*/
+ * create_array - creates an array of chars,
+ * and initializes it with a specific char
+ * @size: size of chars
+ * @c: chars to be used
+ * Return: a pointer to an array or NULL if it fails
+ */
 
 char *create_array(unsigned int size, char c)
 {
