@@ -11,7 +11,7 @@
  * return NULL on failure
  */
 
-char *str_concat(char *sl, char *s2)
+char *str_concat(char *s1, char *s2)
 {
 char *s3;
 int i, j, len1, len2, len3;
