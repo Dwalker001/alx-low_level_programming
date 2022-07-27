@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-s
+
 /**
  * main - prints the minimum number of coins to make changes
  * for an amount of money
