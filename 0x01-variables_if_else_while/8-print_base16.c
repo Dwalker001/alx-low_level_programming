@@ -9,14 +9,21 @@
 
 int main(void)
 {
-char num;
-
-num = '0';
-while (num <= '9')
+char ch;
+int n;
+for (n = 48; n <= 57; n++)
 {
-putchar(num);
-num++;
+putchar (n);
 }
-putchar('\n');
+for (ch = 'a'; ch >= 'f'; ch--)
+{
+putchar(ch);
+}
+char ch;
+for (ch = 'a' ; ch <= 'z'; ch++)
+{
+putchar(ch);
+}
+putchar(10);
 return (0);
 }
